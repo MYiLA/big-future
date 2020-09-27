@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-26T22:35:08.665Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="61Rr8ZHxu0NUCEaIZ6pg" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T13:21:39.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2ADqjm098BG3nRvlqvFj" version="13.7.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2046" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -275,7 +275,7 @@
         <mxCell id="j_ZyQGbrb5WWIaR_qc2B-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j_ZyQGbrb5WWIaR_qc2B-154" target="j_ZyQGbrb5WWIaR_qc2B-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-iMYwJzgG5lu96a3ymdi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j_ZyQGbrb5WWIaR_qc2B-154" target="j_ZyQGbrb5WWIaR_qc2B-96">
+        <mxCell id="-iMYwJzgG5lu96a3ymdi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j_ZyQGbrb5WWIaR_qc2B-154" target="j_ZyQGbrb5WWIaR_qc2B-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="345" y="149" />
@@ -294,7 +294,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-iMYwJzgG5lu96a3ymdi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j_ZyQGbrb5WWIaR_qc2B-156" target="j_ZyQGbrb5WWIaR_qc2B-116">
+        <mxCell id="-iMYwJzgG5lu96a3ymdi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j_ZyQGbrb5WWIaR_qc2B-156" target="j_ZyQGbrb5WWIaR_qc2B-116" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="227" />
@@ -373,6 +373,12 @@
             <mxPoint x="-86.25" y="73.75" as="sourcePoint" />
             <mxPoint x="40" y="10" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-0" value="Алан купер и джеф раскен Интерфейс" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="-72.5" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-1" value="как захожу, какие вопросы&amp;nbsp; и страхи возникают, как их снять и удовлетворить" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1290" y="-40" width="210" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
