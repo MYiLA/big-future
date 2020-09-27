@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T13:21:39.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2ADqjm098BG3nRvlqvFj" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T14:03:16.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ClnKUMjaThVei9m9u_h_" version="13.7.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2046" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3195" dy="1506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -375,10 +375,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jBw9eLuNwDqaeJVfrJw4-0" value="Алан купер и джеф раскен Интерфейс" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1280" y="-72.5" width="210" height="20" as="geometry" />
+          <mxGeometry x="1350" y="-435" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jBw9eLuNwDqaeJVfrJw4-1" value="как захожу, какие вопросы&amp;nbsp; и страхи возникают, как их снять и удовлетворить" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1290" y="-40" width="210" height="65" as="geometry" />
+          <mxGeometry x="1360" y="-402.5" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-4" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;ВОЛОНТЕР Наталья&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2420" y="-620" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-5" value="&lt;div&gt;&lt;b style=&quot;font-size: 20px ; color: rgb(255 , 51 , 51)&quot;&gt;СПОНСОР&lt;/b&gt;&lt;/div&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 20px&quot;&gt;&lt;div&gt;&lt;b&gt;Александр&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2420" y="-835" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;font-size: 20px ; color: rgb(255 , 51 , 51)&quot;&gt;СИРОТА&lt;/b&gt;&lt;/div&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Катя&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2440" y="-1070" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-13" value="Нашла интересную историю через поисковик или инстаграмм" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2420" y="-510" width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-15" value="&lt;u&gt;Возникающие вопросы/затруднения&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2235" y="-547.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-16" value="&lt;u&gt;Решение&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2055" y="-550" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-17" value="Нашел интересный проект/статью или мероприятие через поисковик или соц сети" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2420" y="-782.5" width="195" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-18" value="Знакомые заинтересовали историей сироты Кати, у которой день рождение" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2420" y="-710" width="215" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-19" value="зашла на сайт чтобы пройти тест на профориентацию" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2420" y="-1025" width="170" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-20" value="зашла на сайт чтобы выбрать проект, список нужных предметов для изучения, и собрать команду на проект" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2420" y="-980" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-21" value="зашла, чтобы записаться на английский язык" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2420" y="-922.5" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-25" value="Друзья посоветовали поучавствовать" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2420" y="-420" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-26" value="&lt;u&gt;Возникающие вопросы/затруднения&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2180" y="-770" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-27" value="&lt;u&gt;Решение&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2000" y="-777.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jBw9eLuNwDqaeJVfrJw4-31" value="&lt;u&gt;Сценарий&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2415" y="-550" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
